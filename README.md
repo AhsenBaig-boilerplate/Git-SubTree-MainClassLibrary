@@ -8,6 +8,8 @@
 > git read-tree --prefix=Git-SubTree-NetClassLibrary1/ -u Git-SubTree-NetClassLibrary1/main
 > git commit -m "Subtree merged in Git-SubTree-NetClassLibrary1"
 > git pull -s subtree Git-SubTree-NetClassLibrary1 main
+> git subtree pull --prefix=Git-SubTree-NetClassLibrary1 Git-SubTree-NetClassLibrary1 main
+> git subtree push --prefix=Git-SubTree-NetClassLibrary1 Git-SubTree-NetClassLibrary1 main
 > ```
 
 
