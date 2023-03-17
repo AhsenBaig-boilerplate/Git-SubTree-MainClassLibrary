@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
+    //Public class class1
     public class Class1
     {
     }
