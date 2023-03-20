@@ -8,11 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalProject", "LocalProject\LocalProject.csproj", "{D873D320-2050-4922-99D1-5B4CB50589EA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "SubTree-NetClassLibrary1\ClassLibrary1\ClassLibrary1.csproj", "{B4F6F4CD-7846-4D74-97DE-04A4A7A94C70}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubTree-NetClassLibrary3", "SubTree-NetClassLibrary3\SubTree-NetClassLibrary3.csproj", "{267EC523-2705-4131-8D2A-49F18CC0BE18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,18 +16,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D873D320-2050-4922-99D1-5B4CB50589EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D873D320-2050-4922-99D1-5B4CB50589EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D873D320-2050-4922-99D1-5B4CB50589EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D873D320-2050-4922-99D1-5B4CB50589EA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4F6F4CD-7846-4D74-97DE-04A4A7A94C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B4F6F4CD-7846-4D74-97DE-04A4A7A94C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4F6F4CD-7846-4D74-97DE-04A4A7A94C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4F6F4CD-7846-4D74-97DE-04A4A7A94C70}.Release|Any CPU.Build.0 = Release|Any CPU
-		{267EC523-2705-4131-8D2A-49F18CC0BE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{267EC523-2705-4131-8D2A-49F18CC0BE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{267EC523-2705-4131-8D2A-49F18CC0BE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{267EC523-2705-4131-8D2A-49F18CC0BE18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
