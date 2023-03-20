@@ -28,7 +28,7 @@
 
 > Split the source to subtree
 > ```cmd
-> git subtree split --prefix Git-SubTree-NetClassLibrary3 -b split --rejoin --squash
+> git subtree split --prefix SubTree-NetClassLibrary3 -b split --rejoin --squash
 > ```
 
 > Push the split (create an empty repo for it on github)
